@@ -56,7 +56,7 @@ Advanced Bayesian neural networks and VAEs:
 - Variational Autoencoder on MNIST: architecture, ELBO optimization, and latent-space visualization.
 - Monte Carlo reconstruction and generation with under-10k parameters.
 
-### [COMP0089 — Reinforcement Learning Coursework](https://github.com/BenoitCou/UCL-COMP0089-Reinforcement-Learning-Coursework-1)
+### [UCL COMP0089 — Reinforcement Learning Coursework](https://github.com/BenoitCou/UCL-COMP0089-Reinforcement-Learning-Coursework-1)
 Multi-armed bandits, TD learning, actor-critic, and off-policy returns:
 - UCB, ε-greedy, and softmax agents with regret analysis.
 - Policy iteration, value iteration, and TD(0) for grid worlds.
