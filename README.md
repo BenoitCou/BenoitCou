@@ -19,7 +19,7 @@ Logistic regression and Extreme Learning Machines:
 - Gaussian-initialised ELMs, mixup augmentation, and ensemble regularization.
 - Hyperparameter search and performance comparison.
 
-### [UCL COMP0197 — Applied Deep Learning Coursework 2 - WeakSegNet](https://github.com/BenoitCou/UCL-COMP0197-Applied-Deep-Learning-Coursework-2-WeakSegNet
+### [UCL COMP0197 — Applied Deep Learning Coursework 2 - WeakSegNet](https://github.com/BenoitCou/UCL-COMP0197-Applied-Deep-Learning-Coursework-2-WeakSegNet)
 Weakly-supervised segmentation framework built for the Oxford-IIIT Pet Dataset:
 - Implemented a segmentation network.
 - Conducted comparisons against fully supervised methods and key hyperparameter ablation.
