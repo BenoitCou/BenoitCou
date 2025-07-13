@@ -25,32 +25,32 @@ Weakly-supervised segmentation framework built for the Oxford-IIIT Pet Dataset:
 - Conducted comparisons against fully supervised methods and key hyperparameter ablation.
 - Explored pseudo-mask limitations and integration with foundation models.
 
-### [COMP0078 — Supervised Learning Coursework 1](https://github.com/BenoitCou/UCL-COMP0078-Supervised-Learning-Coursework-1)
+### [UCL COMP0078 — Supervised Learning Coursework 1](https://github.com/BenoitCou/UCL-COMP0078-Supervised-Learning-Coursework-1)
 Supervised learning experiments on toy data and the Boston Housing dataset:
 - Polynomial regression with bias–variance analysis.
 - Gaussian kernel ridge regression with cross-validation.
 - k-NN implementation: error vs k and training-set size studies.
 - Theoretical proofs on kernels and learning bounds.
 
-### [COMP0078 — Supervised Learning Coursework 2](https://github.com/BenoitCou/UCL-COMP0078-Supervised-Learning-Coursework-2)
+### [UCL COMP0078 — Supervised Learning Coursework 2](https://github.com/BenoitCou/UCL-COMP0078-Supervised-Learning-Coursework-2)
 Theoretical analyses in supervised learning:
 - Rademacher complexity bounds and surrogate loss consistency.
 - Kernel perceptron studies on handwritten digits with CV and error analysis.
 
-### [COMP0086 — Probabilistic & Unsupervised Learning Coursework](https://github.com/BenoitCou/UCL-COMP0086-Probabilistic-and-Unsupervised-Learning-Coursework)
+### [UCL COMP0086 — Probabilistic & Unsupervised Learning Coursework](https://github.com/BenoitCou/UCL-COMP0086-Probabilistic-and-Unsupervised-Learning-Coursework)
 Hands-on probabilistic modeling and EM algorithms:
 - Multivariate Bernoulli, model selection with marginal likelihoods.
 - EM for mixtures of Bernoullis with convergence analysis.
 - Kalman smoothing and Gibbs sampling for LDA.
 - MCMC for decrypting text and optimisation exercises.
 
-### [COMP0171 — Bayesian Deep Learning Coursework 1](https://github.com/BenoitCou/UCL-COMP0171-Bayesian-Deep-Learning-Coursework-1)
+### [UCL COMP0171 — Bayesian Deep Learning Coursework 1](https://github.com/BenoitCou/UCL-COMP0171-Bayesian-Deep-Learning-Coursework-1)
 Bayesian inference and Laplace approximation:
 - Custom MCMC for heteroskedastic Gaussian model (seven scientists).
 - Bayesian logistic regression with MAP, Laplace, and model comparison.
 - Feature engineering up to cubic terms achieving 92% test accuracy.
 
-### [COMP0171 — Bayesian Deep Learning Coursework 2](https://github.com/BenoitCou/UCL-COMP0171-Bayesian-Deep-Learning-Coursework-2)
+### [UCL COMP0171 — Bayesian Deep Learning Coursework 2](https://github.com/BenoitCou/UCL-COMP0171-Bayesian-Deep-Learning-Coursework-2)
 Advanced Bayesian neural networks and VAEs:
 - SGLD sampling for uncertainty quantification and calibration on two-moons.
 - Variational Autoencoder on MNIST: architecture, ELBO optimization, and latent-space visualization.
