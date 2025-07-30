@@ -1,6 +1,6 @@
 # BenoîtCou
 
-I am a French double-degree student (CentraleSupélec & UCL) with a passion for machine learning and AI. Currently completing my MSc in Machine Learning at University College London and my Engineering degree at CentraleSupélec Paris, I bring hands-on experience in ML engineering, data science, and research. My background includes roles at Toyota Motor Europe, McKinsey & Company, and DeepMedical, where I delivered impactful AI solutions.
+I am a French double-degree student with a passion for machine learning and AI. Currently completing my MSc in Machine Learning at University College London and my Engineering degree at CentraleSupélec Paris, I bring hands-on experience in ML engineering, data science, and research. My background includes roles at Toyota Motor Europe and McKinsey & Company, where I delivered impactful AI solutions.
 
 ---
 
