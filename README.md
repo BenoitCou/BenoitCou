@@ -1,5 +1,8 @@
 # BenoîtCou
 
+![Profile Views](https://komarev.com/ghpvc/?username=benoitcou&color=blue&style=flat-square) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)  ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)  ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)  ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)  ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)  
+
+
 I am a French double-degree student with a passion for machine learning and AI. Currently completing my MSc in Machine Learning at University College London and my Engineering degree at CentraleSupélec Paris, I bring hands-on experience in ML engineering, data science, and research. My background includes roles at Toyota Motor Europe and McKinsey & Company, where I delivered impactful AI solutions.
 
 ---
