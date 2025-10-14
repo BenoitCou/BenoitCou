@@ -20,6 +20,14 @@ A Streamlit app to automate public tender processing:
 - Summarize hundreds of pages into a Word report with images.
 - Chat with documents via a RAG-based chatbot, including source citations and configurable keyword filters.
 
+### [Weekly-AI-News](https://github.com/BenoitCou/Weekly-AI-News)
+An automated Slack workflow to produce a weekly AI news newsletter:
+- Generate a 7-item press review with Gemini 2.5 Flash grounded by Google Search (multiple reputable sources per item).
+- Post the draft to a Slack Review channel with Send / Regenerate buttons for human-in-the-loop approval.
+- Automatically publish to the Main channel on approval.
+- Append inline [source] links from grounding metadata; enforce categories (Investments, Policy, Europe, Healthcare, Chosen Story).
+- Run in Socket Mode with a background listener and a two-hour decision window.
+
 ### [UCL COMP0197 — Applied Deep Learning Coursework 1](https://github.com/BenoitCou/UCL-COMP0197-Applied-Deep-Learning-Coursework-1)
 Logistic regression and Extreme Learning Machines:
 - Polynomial logistic models and custom losses with SGD.
