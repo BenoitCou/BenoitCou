@@ -1,11 +1,6 @@
 # BenoîtCou
 
-![Profile Views](https://komarev.com/ghpvc/?username=benoitcou&color=blue&style=flat-square)  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)  ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)  ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)  ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)  ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)  ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)  ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)  ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white)  ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)  ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)  ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)  ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)  ![Google Cloud API](https://img.shields.io/badge/Google%20Cloud%20API-4285F4?style=flat-square&logo=googlecloud&logoColor=white)![Mistral API](https://img.shields.io/badge/Mistral%20API-FF6F20?style=flat-square&logo=windicss&logoColor=white)  ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![JAX](https://img.shields.io/badge/JAX-FFB300?style=flat-square&logo=google&logoColor=black) ![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat-square&logo=xgboost&logoColor=white)  ![LightGBM](https://img.shields.io/badge/LightGBM-8BC34A?style=flat-square&logo=leaflet&logoColor=white)  ![Seaborn](https://img.shields.io/badge/Seaborn-76B900?style=flat-square&logo=python&logoColor=white)  ![CatBoost](https://img.shields.io/badge/CatBoost-FFCC00?style=flat-square&logo=cat&logoColor=black)  ![TabNet](https://img.shields.io/badge/TabNet-00C7B7?style=flat-square&logo=deezer&logoColor=white)  ![Statsmodels](https://img.shields.io/badge/Statsmodels-333333?style=flat-square&logo=scipy&logoColor=white)  ![Prophet](https://img.shields.io/badge/Prophet-025E8C?style=flat-square&logo=facebook&logoColor=white)  
-
-
-
- 
-
+![Profile Views](https://komarev.com/ghpvc/?username=benoitcou&color=blue&style=flat-square)
 
 I am a French double-degree student with a passion for machine learning and AI. Currently completing my MSc in Machine Learning at University College London and my Engineering degree at CentraleSupélec Paris, I bring hands-on experience in ML engineering, data science, and research. My background includes roles at Toyota Motor Europe and McKinsey & Company, where I delivered impactful AI solutions.
 
@@ -14,11 +9,11 @@ I am a French double-degree student with a passion for machine learning and AI. 
 ## Tech Stack & Skills
 
 
-### Languages
+#### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
-### Data Science & Analytics
+#### Data Science & Analytics
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white)
@@ -27,20 +22,20 @@ I am a French double-degree student with a passion for machine learning and AI. 
 ![Prophet](https://img.shields.io/badge/Prophet-025E8C?style=flat-square&logo=facebook&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
-### Machine Learning
+#### Machine Learning
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat-square&logo=xgboost&logoColor=white)
 ![LightGBM](https://img.shields.io/badge/LightGBM-8BC34A?style=flat-square&logo=leaflet&logoColor=white)
 ![CatBoost](https://img.shields.io/badge/CatBoost-FFCC00?style=flat-square&logo=cat&logoColor=black)
 ![TabNet](https://img.shields.io/badge/TabNet-00C7B7?style=flat-square&logo=deezer&logoColor=white)
 
-### Deep Learning
+#### Deep Learning
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
 ![JAX](https://img.shields.io/badge/JAX-FFB300?style=flat-square&logo=google&logoColor=black)
 
-### LLMs
+#### LLMs
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![Mistral API](https://img.shields.io/badge/Mistral%20API-FF6F20?style=flat-square&logo=windicss&logoColor=white)
@@ -51,7 +46,7 @@ I am a French double-degree student with a passion for machine learning and AI. 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
 
 
-### Computer Vision
+#### Computer Vision
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logo=yolo&logoColor=black)
 ![ResNet](https://img.shields.io/badge/ResNet-4B8BBE?style=flat-square&logo=pytorch&logoColor=white)
@@ -59,7 +54,7 @@ I am a French double-degree student with a passion for machine learning and AI. 
 ![UNet](https://img.shields.io/badge/U--Net-336791?style=flat-square&logo=neural-network&logoColor=white)
 
 
-### MLOps & Deployment
+#### MLOps & Deployment
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![Google Cloud API](https://img.shields.io/badge/Google%20Cloud%20API-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
