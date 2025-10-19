@@ -34,23 +34,38 @@ I am a French double-degree student with a passion for machine learning and AI. 
 ![CatBoost](https://img.shields.io/badge/CatBoost-FFCC00?style=flat-square&logo=cat&logoColor=black)
 ![TabNet](https://img.shields.io/badge/TabNet-00C7B7?style=flat-square&logo=deezer&logoColor=white)
 
-### Deep Learning & LLMs
+### Deep Learning
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
 ![JAX](https://img.shields.io/badge/JAX-FFB300?style=flat-square&logo=google&logoColor=black)
+
+### LLMs
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![Mistral API](https://img.shields.io/badge/Mistral%20API-FF6F20?style=flat-square&logo=windicss&logoColor=white)
+![DeepSeek](https://img.shields.io/badge/DeepSeek-1A73E8?style=flat-square&logo=deezer&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E24AA?style=flat-square&logo=google&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-005571?style=flat-square&logo=facebook&logoColor=white)
+![Chroma](https://img.shields.io/badge/Chroma-00A67E?style=flat-square&logo=chromadb&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
+
 
 ### Computer Vision
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logo=yolo&logoColor=black)
+![ResNet](https://img.shields.io/badge/ResNet-4B8BBE?style=flat-square&logo=pytorch&logoColor=white)
+![SAM2](https://img.shields.io/badge/SAM2-0099E5?style=flat-square&logo=meta&logoColor=white)
+![UNet](https://img.shields.io/badge/U--Net-336791?style=flat-square&logo=neural-network&logoColor=white)
+
 
 ### MLOps & Deployment
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![Google Cloud API](https://img.shields.io/badge/Google%20Cloud%20API-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
+![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)
 
 
 ---
