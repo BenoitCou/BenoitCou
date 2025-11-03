@@ -2,7 +2,9 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=benoitcou&color=blue&style=flat-square)
 
-I am a French double-degree student with a passion for machine learning and AI. Currently completing my MSc in Machine Learning at University College London and my Engineering degree at CentraleSupélec Paris, I bring hands-on experience in ML engineering, data science, and research. My background includes roles at Toyota Motor Europe and McKinsey & Company, where I delivered impactful AI solutions.
+I am a French Machine Learning Engineer passionate about developing and deploying impactful AI solutions. Currently working in the healthcare sector in London, I bring hands-on experience in machine learning engineering, data science, and applied AI research across multiple industries. My background includes roles at Toyota Motor Europe, and at McKinsey & Company.
+
+Graduated from CentraleSupélec (Engineering) and University College London (MSc in Machine Learning), I combine technical depth with business insight to bridge the gap between data science and real-world impact.
 
 ---
 
@@ -12,6 +14,7 @@ I am a French double-degree student with a passion for machine learning and AI. 
 #### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 
 #### Data Science & Analytics
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
@@ -38,13 +41,12 @@ I am a French double-degree student with a passion for machine learning and AI. 
 #### LLMs
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Mistral API](https://img.shields.io/badge/Mistral%20API-FF6F20?style=flat-square&logo=windicss&logoColor=white)
+![MistralAI](https://img.shields.io/badge/Mistral%20API-FF6F20?style=flat-square&logo=windicss&logoColor=white)
 ![DeepSeek](https://img.shields.io/badge/DeepSeek-1A73E8?style=flat-square&logo=deezer&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-8E24AA?style=flat-square&logo=google&logoColor=white)
 ![FAISS](https://img.shields.io/badge/FAISS-005571?style=flat-square&logo=facebook&logoColor=white)
 ![Chroma](https://img.shields.io/badge/Chroma-00A67E?style=flat-square&logo=chromadb&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
-
 
 #### Computer Vision
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
@@ -53,15 +55,18 @@ I am a French double-degree student with a passion for machine learning and AI. 
 ![SAM2](https://img.shields.io/badge/SAM2-0099E5?style=flat-square&logo=meta&logoColor=white)
 ![UNet](https://img.shields.io/badge/U--Net-336791?style=flat-square&logo=neural-network&logoColor=white)
 
-
 #### MLOps & Deployment
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Google Cloud API](https://img.shields.io/badge/Google%20Cloud%20API-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
 ![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Google Cloud API](https://img.shields.io/badge/Google%20Cloud%20API-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 
+### Web & Mobile Development
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)
 
 ---
 
@@ -81,6 +86,14 @@ An automated Slack workflow to produce a weekly AI news newsletter:
 - Automatically publish to the Main channel on approval.
 - Append inline [source] links from grounding metadata; enforce categories (Investments, Policy, Europe, Healthcare, Chosen Story).
 - Run in Socket Mode with a background listener and a two-hour decision window.
+
+### [Daily-Indian-News](https://github.com/BenoitCou/Daily-Indian-News)
+A Python app that automates a daily email French press review about South Asia (India, Pakistan, Bangladesh, Nepal, Bhutan, Sri Lanka, Maldives):
+- Generates 4 structured sections (Actualité, Contexte, Enjeux) via Gemini 2.5 Flash grounded by Google Search.
+- Produces strict HTML output (email-ready, no Markdown) with inline [source] links.
+- Sends the result through the Gmail API (OAuth Desktop) to one or multiple recipients.
+- Retries up to 3 times on transient errors and filters news by a configurable date window.
+- Fully localized in French (prompts, labels, and formatting).
 
 ### [UCL COMP0197 — Applied Deep Learning Coursework 1](https://github.com/BenoitCou/UCL-COMP0197-Applied-Deep-Learning-Coursework-1)
 Logistic regression and Extreme Learning Machines:
