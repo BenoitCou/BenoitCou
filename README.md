@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=benoitcou&color=blue&style=flat-square)
 
-I am a French Machine Learning Engineer passionate about developing and deploying impactful AI solutions. Currently working in the healthcare sector in London, I bring hands-on experience in machine learning engineering, data science, and applied AI research across multiple industries. My background includes roles at Toyota Motor Europe, and at McKinsey & Company.
+I am a Machine Learning Engineer passionate about developing and deploying impactful AI solutions. Currently working in the healthcare sector in London, I bring hands-on experience in machine learning engineering, data science, and applied AI research across multiple industries. My background includes roles at Toyota Motor Europe, and at McKinsey & Company.
 
 Graduated from CentraleSupélec (Engineering) and University College London (MSc in Machine Learning), I combine technical depth with business insight to bridge the gap between data science and real-world impact.
 
